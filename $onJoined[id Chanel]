@@ -1,0 +1,6 @@
+$nomention
+$suppressErrors
+$dm
+$title[$getServerVar[dmtitle]]
+$description[$getservervar[dmdescription]]
+$color[votre couleur en format HEX]
