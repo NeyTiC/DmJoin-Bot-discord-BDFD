@@ -4,3 +4,6 @@ $dm
 $title[$getServerVar[dmtitle]]
 $description[$getservervar[dmdescription]]
 $color[votre couleur en format HEX]
+
+
+PS : l'id du Channel peut être n'importe le quelle tant qu'il est sur le serveur ! 
