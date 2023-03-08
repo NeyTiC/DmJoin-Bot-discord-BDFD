@@ -1,0 +1,9 @@
+$nomention
+$argsCheck[>1;Veuillez mettre la phrase que vous voulez mettre à votre DM !]
+$deletecommand
+$onlyAdmin[Vous n'avez pas la Permission Requis : `Administrateur` !]
+$setServerVar[dmdescription;$message]
+$title[Configuration]
+$description[message de dm configurer avec succès !]
+$color[FF0000]
+$onlyIf[$guildID!=;]
