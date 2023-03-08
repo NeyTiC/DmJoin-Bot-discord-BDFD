@@ -1,0 +1,9 @@
+$nomention
+$argsCheck[>1;Veuillez mettre le titre que vous voulez mettre à votre dm !]
+$deletecommand
+$onlyAdmin[Vous n'avez pas la Permission Requis : `Administrateur` !]
+$setServerVar[titledm;$message]
+$title[Configuration]
+$description[message de panel configurer avec succès !]
+$color[Couleur en HEX ex : #FF0000]
+$onlyIf[$guildID!=;]
